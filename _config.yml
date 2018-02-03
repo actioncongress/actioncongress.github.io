@@ -1,12 +1,10 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Action Congress
+author: Lauren Dennedy
+email: lauren@actioncongress.org
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  Home page of the Action Congress Organization.
 
-twitter_username: macrod68
-github_username:  macrod68
+github_username:  actioncongress
 
 sass:
     style: compressed
-remote_theme: Materialize
