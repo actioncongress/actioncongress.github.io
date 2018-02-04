@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Carousel
-permalink: /carousel/
+title: Contact
+permalink: /contact/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
