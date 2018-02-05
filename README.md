@@ -1,20 +1,14 @@
-# Jekyll Materialize Starter Template v0.1
+# Action Congress Site Source
 
-*A Site Starter Materialize Templates.
+We are an organization of students and young adults working to provide others with purpose through activities designed at strengthening community awareness and promoting personal growth.
 
-The theme is a fork of the [minima][1]
+The Action Congress Organization relies on GitHub pages and Jekyll to host content.
 
-![minima theme preview](/screenshot.png)
+This website uses the Materialize starter template.
 
+The theme is available as open source under the terms of the <a href="https://opensource.org/licenses/MIT">MIT License</a>.
 
-# License
-
-The theme is available as open source under the terms of the [MIT License][2].
-
-[Materialize][3] a  modern responsive front-end framework based on Material Design
+Credit:
+<a href="http://materializecss.com/">Materialize</a>, a  modern responsive front-end framework based on Material Design
 
 Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
