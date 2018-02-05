@@ -9,6 +9,6 @@ This website uses the Materialize starter template.
 The theme is available as open source under the terms of the <a href="https://opensource.org/licenses/MIT">MIT License</a>.
 
 Credit:
-<a href="http://materializecss.com/">Materialize</a>, a  modern responsive front-end framework based on Material Design
+<a href="http://materializecss.com/">Materialize</a>, a  modern responsive front-end framework based on Material Design.
 
-Powered by <a href="http://jekyllrb.com">Jekyll</a>
+Powered by <a href="http://jekyllrb.com">Jekyll</a>.
