@@ -21,18 +21,13 @@ h1.page-title {
     text-align: center;
     color: #ea454b;
 }
-.parent {
-  position: relative;
-  top: 0;
-  left: 0;
-}
-.image1 {
-  position: relative;
-  width: 100%;
-  height: auto;
-  top: 0;
-  left: 0;
-}
+h1.home-title {
+   font-weight: 475;
+   font-size: 4em;
+   text-align: left;
+   margin-left: 80px;
+   color: #e51c23;
+ }
 img.member{
   max-width: 25%;
   max-height: auto;
